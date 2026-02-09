@@ -1,1 +1,2 @@
 
+I have chosen a dataset that contains information about 418 passengers, including their gender, age, and passenger class. The main goal of this project is to solve a Classification problem by predicting whether a passenger survived or not. The target variable I am focusing on is the column labeled 'Survived'. By using this data, I want to analyze the factors that influenced the chances of survival and build a model that can accurately predict the outcome for each passenger.
